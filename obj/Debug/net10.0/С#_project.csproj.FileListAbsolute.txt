@@ -12,3 +12,4 @@
 /Users/user/Desktop/С#_project/obj/Debug/net10.0/С#_project.pdb
 /Users/user/Desktop/С#_project/obj/Debug/net10.0/С#_project.genruntimeconfig.cache
 /Users/user/Desktop/С#_project/obj/Debug/net10.0/ref/С#_project.dll
+/Users/user/Desktop/С#_project/obj/Debug/net10.0/С#_project.sourcelink.json

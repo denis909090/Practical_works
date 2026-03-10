@@ -5,7 +5,15 @@ namespace project
     {
         static void Main(string[] args)
         {   
-            /* Task 2 */
+            /* Task 2
+            Console.WriteLine("Денис Гирман");
+            Console.WriteLine("Введіть бажану к-ть хвилин. Ціле число");
+            int minutes = int.Parse(Console.ReadLine() ?? "0");
+
+            int hour = minutes / 60;
+            int remaining_minutes = minutes % 60;
+            Console.WriteLine($"{hour}год : {remaining_minutes}хв"); */
+
             /* Task 3
             Console.WriteLine("Введіть к-ть булочок");
             int n = int.Parse(Console.ReadLine() ?? "0");
@@ -20,7 +28,7 @@ namespace project
             Console.WriteLine($"За {n} булочок необхідно заплатити {result_uah} гривень {result_kop} копійок");
 
             */        
-            /* Task 4
+            //  Task 4
             Console.WriteLine("Гирман Денис");
             Console.WriteLine("Введіть к-ть комп. в першому класі");
             int C1 = int.Parse(Console.ReadLine() ?? "0");
@@ -32,7 +40,7 @@ namespace project
             C1 += 4;
             C2 -= 1;
             Console.WriteLine($"компʼютерів у 1 класі у грудні - {C1}. Компʼютерів у 2 класі у грудні - {C2 }.");
-            */
+            
         }
     }
 }
