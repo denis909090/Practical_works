@@ -1,4 +1,7 @@
 ﻿using System;
+using Project.lab_1;
+using Project.pract_1;
+using Project.pract_2;
 
 namespace Project
 {
@@ -6,11 +9,11 @@ namespace Project
     {
         static void Main(string[] args)
         {
-            base_tasks.task_1();
-            base_tasks.task_2();
-            base_tasks.task_3();
-            base_tasks.task_4();
-            base_tasks.task_5();
+            // base_tasks.task_1();
+            // base_tasks.task_2();
+            // base_tasks.task_3();
+            // base_tasks.task_4();
+            // base_tasks.task_5();
 
             // individual_tasks.task_1();
             // individual_tasks.task_2();
