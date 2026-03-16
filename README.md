@@ -2,5 +2,6 @@
 - `main.cs` — точка входу, тільки виклики методів
 - `base_tasks.cs` — базові завдання (task_1 — task_5)
 - `first_individual_tasks.cs` — індивідуальні завдання (task_1 — task_7)
+- `trainee_file` – для особистих спроб програмування
 
 Всі дії з git виконую в консолі VSCode
