@@ -7,7 +7,7 @@ namespace Project
         public static void task_1()
         {
             Console.WriteLine("Введіть ціле число:");
-            int n = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine() ?? "0");
             int nextEven = n + 2 - (n % 2);
             Console.WriteLine("Наступне парне число: {0}", nextEven);
         }
@@ -15,7 +15,7 @@ namespace Project
         public static void task_2()
         {
             Console.WriteLine("Введіть дату народження:");
-            int n = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine()?? "0");
             Console.WriteLine($"Cтуденту {DateTime.Now.Year - n} повних років");
         }
 

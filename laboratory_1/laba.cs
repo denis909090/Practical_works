@@ -10,7 +10,6 @@ namespace Project.lab_1
             double x = 0.465;
             double y = 6.33;
             double z = 3.25;
-            double a = 4.72;
             double b = 0.81;
 
             double v = 5 * (Math.Atan(z));
@@ -30,11 +29,10 @@ namespace Project.lab_1
             try
             {
                 Console.WriteLine("Напишіть число для x");
-                double x = double.Parse(Console.ReadLine());
+                double x = double.Parse(Console.ReadLine() ?? "0");
                 Console.WriteLine("Напишіть число для y");
-                double y = double.Parse(Console.ReadLine());
+                double y = double.Parse(Console.ReadLine() ?? "0");
                 double z = 3.25;
-                double a = 4.72;
                 double b = 0.81;
                 double v = 5 * (Math.Atan(z));
                 double u = (3 * (x - y)) / (Math.Pow(z, 2) + Math.Pow(x, 2));

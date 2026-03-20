@@ -6,8 +6,7 @@ namespace Project
     {
         public static void elem()
         {
-            const string name = "Тренувальне завдання";
-            Console.WriteLine($"Виконується: {name}");
+            Console.WriteLine(Console.ReadKey());
         }
     }
 }

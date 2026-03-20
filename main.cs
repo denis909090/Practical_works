@@ -23,9 +23,9 @@ namespace Project
             // individual_tasks.task_5();
             // individual_tasks.task_6();
             // individual_tasks.task_7();
-            // trainee_task.elem();
+            trainee_task.elem();
 
-            lab_tasks.task_2();
+            // lab_tasks.task_2();
         }
     }
 }
