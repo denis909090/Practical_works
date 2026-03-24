@@ -7,7 +7,7 @@ namespace Project
     {
         static void Main(string[] args)
         {
-            BaseTasks_2.task_3();
+            BaseTasks_2.task_4();
             // BaseTasks_2.task_4();
         }
     }
