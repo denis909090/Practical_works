@@ -54,8 +54,6 @@ class Lab6
             Console.WriteLine("Array.IndexOf: знайдено на індексі " + index1);
         else
             Console.WriteLine("Array.IndexOf: не знайдено");
-
-        // Array.FindIndex - теж шукає індекс, але через умову
         int index2 = Array.FindIndex(arr, delegate (double x) { return x == target; });
         if (index2 >= 0)
             Console.WriteLine("Array.FindIndex: знайдено на індексі " + index2);
