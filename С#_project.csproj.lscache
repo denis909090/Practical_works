@@ -57,6 +57,7 @@ TemporaryDependencyNodeTargetIdentifier=net10.0
 indibidual_task.cs
 laboratory_1/laba.cs
 laboratory_4/lab_4.cs
+laboratory_6/lab_6.cs
 main.cs
 obj/Debug/net10.0/
  .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
