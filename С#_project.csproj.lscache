@@ -55,6 +55,7 @@ TemporaryDependencyNodeTargetIdentifier=net10.0
 
 [sourceFiles]
 indibidual_task.cs
+indiv_task_2.cs
 laboratory_1/laba.cs
 laboratory_4/lab_4.cs
 laboratory_6/lab_6.cs

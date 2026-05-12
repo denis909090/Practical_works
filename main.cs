@@ -61,7 +61,7 @@ namespace Project
             //     Console.WriteLine("продовжуєм?");
             //     answer = Console.ReadLine();
             // }
-            Lab6.Run();
+            IndivTask2.Run();
         }
     }
 }
